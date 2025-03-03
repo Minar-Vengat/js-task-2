@@ -1,0 +1,41 @@
+body{
+    background-image: url(assutse/blazing-blue-red-flame-background-600nw-2334362207.webp);
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.calculator {
+    width: 250px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: #f8f9fa;
+    box-shadow: 0px 0px 15px red; 
+    border: 5px solid blue;
+    background: transparent;
+    padding-left: 11px;
+}
+.card{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    margin-bottom: 10px;
+}
+.form-control{
+    text-align: right;
+    font-size: 24px;
+    height: 50px;
+} 
+.btn{
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    border: 2px solid rgb(136, 119, 119); 
+    color: black;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+    margin: 5px; 
+}   
+#rowlast{
+    margin-top: -69px;
+}
